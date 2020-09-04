@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"D:/UEProjects/XUEXI/.vs": true,
+		"D:/UEProjects/XUEXI/.vscode": true,
+		"D:/UEProjects/XUEXI/Content": true,
+		"D:/UEProjects/XUEXI/DerivedDataCache": true,
+		"D:/UEProjects/XUEXI/Intermediate": true,
+		"D:/UEProjects/XUEXI/Saved": true
+	}
+}
